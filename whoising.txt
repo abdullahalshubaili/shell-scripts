@@ -1,0 +1,912 @@
+IP_address 104.210.4.77
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=104.210.4.77?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       104.208.0.0 - 104.215.255.255
+CIDR:           104.208.0.0/13
+NetName:        MSFT
+NetHandle:      NET-104-208-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS8075
+Organization:   Microsoft Corporation (MSFT)
+RegDate:        2014-10-01
+Updated:        2014-10-01
+Ref:            https://whois.arin.net/rest/net/NET-104-208-0-0-1
+
+
+
+OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        1998-07-10
+Updated:        2016-06-30
+Comment:        To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:
+Comment:        * https://cert.microsoft.com.  
+Comment:        
+Comment:        For SPAM and other abuse issues, such as Microsoft Accounts, please contact:
+Comment:        * abuse@microsoft.com.  
+Comment:        
+Comment:        To report security vulnerabilities in Microsoft products and services, please contact:
+Comment:        * secure@microsoft.com.  
+Comment:        
+Comment:        For legal and law enforcement-related requests, please contact:
+Comment:        * msndcc@microsoft.com
+Comment:        
+Comment:        For routing, peering or DNS issues, please 
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            https://whois.arin.net/rest/org/MSFT
+
+
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080 
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/MAC74-ARIN
+
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080 
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    https://whois.arin.net/rest/poc/MRPD-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 104.88.198.215
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=104.88.198.215?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       104.64.0.0 - 104.127.255.255
+CIDR:           104.64.0.0/10
+NetName:        AKAMAI
+NetHandle:      NET-104-64-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Akamai Technologies, Inc. (AKAMAI)
+RegDate:        2014-04-22
+Updated:        2014-04-22
+Ref:            https://whois.arin.net/rest/net/NET-104-64-0-0-1
+
+
+OrgName:        Akamai Technologies, Inc.
+OrgId:          AKAMAI
+Address:        150 Broadway
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        1999-01-21
+Updated:        2016-11-16
+Ref:            https://whois.arin.net/rest/org/AKAMAI
+
+
+OrgAbuseHandle: SJS98-ARIN
+OrgAbuseName:   Schecter, Steven Jay
+OrgAbusePhone:  +1-617-274-7134 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgTechHandle: SJS98-ARIN
+OrgTechName:   Schecter, Steven Jay
+OrgTechPhone:  +1-617-274-7134 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgTechHandle: ZIPKI-ARIN
+OrgTechName:   Zipkin, Justin 
+OrgTechPhone:  +1-617-444-9713 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://whois.arin.net/rest/poc/ZIPKI-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 166.62.28.141
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=166.62.28.141?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       166.62.0.0 - 166.62.127.255
+CIDR:           166.62.0.0/17
+NetName:        GO-DADDY-COM-LLC
+NetHandle:      NET-166-62-0-0-1
+Parent:         NET166 (NET-166-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS26496
+Organization:   GoDaddy.com, LLC (GODAD)
+RegDate:        2012-11-14
+Updated:        2014-02-25
+Comment:        Please send abuse complaints to abuse@godaddy.com
+Ref:            https://whois.arin.net/rest/net/NET-166-62-0-0-1
+
+
+
+OrgName:        GoDaddy.com, LLC
+OrgId:          GODAD
+Address:        14455 N Hayden Road
+Address:        Suite 226
+City:           Scottsdale
+StateProv:      AZ
+PostalCode:     85260
+Country:        US
+RegDate:        2007-06-01
+Updated:        2014-09-10
+Comment:        Please send abuse complaints to abuse@godaddy.com
+Ref:            https://whois.arin.net/rest/org/GODAD
+
+
+OrgAbuseHandle: ABUSE51-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-480-624-2505 
+OrgAbuseEmail:  abuse@godaddy.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/ABUSE51-ARIN
+
+OrgNOCHandle: NOC124-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-480-505-8809 
+OrgNOCEmail:  noc@godaddy.com
+OrgNOCRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+OrgTechHandle: NOC124-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-480-505-8809 
+OrgTechEmail:  noc@godaddy.com
+OrgTechRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+RTechHandle: NOC124-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-480-505-8809 
+RTechEmail:  noc@godaddy.com
+RTechRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+RAbuseHandle: ABUSE51-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-480-624-2505 
+RAbuseEmail:  abuse@godaddy.com
+RAbuseRef:    https://whois.arin.net/rest/poc/ABUSE51-ARIN
+
+RNOCHandle: NOC124-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-480-505-8809 
+RNOCEmail:  noc@godaddy.com
+RNOCRef:    https://whois.arin.net/rest/poc/NOC124-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 192.168.44.1
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=192.168.44.1?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       192.168.0.0 - 192.168.255.255
+CIDR:           192.168.0.0/16
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+NetHandle:      NET-192-168-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        IANA Special Use
+OriginAS:       
+Organization:   Internet Assigned Numbers Authority (IANA)
+RegDate:        1994-03-15
+Updated:        2013-08-30
+Comment:        These addresses are in use by many millions of independently operated networks, which might be as small as a single computer connected to a home gateway, and are automatically configured in hundreds of millions of devices.  They are only intended for use within a private context  and traffic that needs to cross the Internet will need to use a different, unique address.
+Comment:        
+Comment:        These addresses can be used by anyone without any need to coordinate with IANA or an Internet registry.  The traffic from these addresses does not come from ICANN or IANA.  We are not the source of activity you may see on logs or in e-mail records.  Please refer to http://www.iana.org/abuse/answers
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Best Current Practice document, RFC 1918 which can be found at:
+Comment:        http://datatracker.ietf.org/doc/rfc1918
+Ref:            https://whois.arin.net/rest/net/NET-192-168-0-0-1
+
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2012-08-31
+Ref:            https://whois.arin.net/rest/org/IANA
+
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   ICANN
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    https://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   ICANN
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    https://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 192.168.44.149
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=192.168.44.149?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       192.168.0.0 - 192.168.255.255
+CIDR:           192.168.0.0/16
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+NetHandle:      NET-192-168-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        IANA Special Use
+OriginAS:       
+Organization:   Internet Assigned Numbers Authority (IANA)
+RegDate:        1994-03-15
+Updated:        2013-08-30
+Comment:        These addresses are in use by many millions of independently operated networks, which might be as small as a single computer connected to a home gateway, and are automatically configured in hundreds of millions of devices.  They are only intended for use within a private context  and traffic that needs to cross the Internet will need to use a different, unique address.
+Comment:        
+Comment:        These addresses can be used by anyone without any need to coordinate with IANA or an Internet registry.  The traffic from these addresses does not come from ICANN or IANA.  We are not the source of activity you may see on logs or in e-mail records.  Please refer to http://www.iana.org/abuse/answers
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Best Current Practice document, RFC 1918 which can be found at:
+Comment:        http://datatracker.ietf.org/doc/rfc1918
+Ref:            https://whois.arin.net/rest/net/NET-192-168-0-0-1
+
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2012-08-31
+Ref:            https://whois.arin.net/rest/org/IANA
+
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   ICANN
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    https://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   ICANN
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    https://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 192.168.44.2
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=192.168.44.2?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       192.168.0.0 - 192.168.255.255
+CIDR:           192.168.0.0/16
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+NetHandle:      NET-192-168-0-0-1
+Parent:         NET192 (NET-192-0-0-0-0)
+NetType:        IANA Special Use
+OriginAS:       
+Organization:   Internet Assigned Numbers Authority (IANA)
+RegDate:        1994-03-15
+Updated:        2013-08-30
+Comment:        These addresses are in use by many millions of independently operated networks, which might be as small as a single computer connected to a home gateway, and are automatically configured in hundreds of millions of devices.  They are only intended for use within a private context  and traffic that needs to cross the Internet will need to use a different, unique address.
+Comment:        
+Comment:        These addresses can be used by anyone without any need to coordinate with IANA or an Internet registry.  The traffic from these addresses does not come from ICANN or IANA.  We are not the source of activity you may see on logs or in e-mail records.  Please refer to http://www.iana.org/abuse/answers
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Best Current Practice document, RFC 1918 which can be found at:
+Comment:        http://datatracker.ietf.org/doc/rfc1918
+Ref:            https://whois.arin.net/rest/net/NET-192-168-0-0-1
+
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2012-08-31
+Ref:            https://whois.arin.net/rest/org/IANA
+
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   ICANN
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    https://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   ICANN
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    https://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 204.79.197.200
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=204.79.197.200?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       204.79.195.0 - 204.79.197.255
+CIDR:           204.79.195.0/24, 204.79.196.0/23
+NetName:        ECN-NETWORK
+NetHandle:      NET-204-79-195-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS8075
+Organization:   Microsoft Corporation (MSFT)
+RegDate:        1994-12-15
+Updated:        2013-08-20
+Ref:            https://whois.arin.net/rest/net/NET-204-79-195-0-1
+
+
+
+OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        1998-07-10
+Updated:        2016-06-30
+Comment:        To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:
+Comment:        * https://cert.microsoft.com.  
+Comment:        
+Comment:        For SPAM and other abuse issues, such as Microsoft Accounts, please contact:
+Comment:        * abuse@microsoft.com.  
+Comment:        
+Comment:        To report security vulnerabilities in Microsoft products and services, please contact:
+Comment:        * secure@microsoft.com.  
+Comment:        
+Comment:        For legal and law enforcement-related requests, please contact:
+Comment:        * msndcc@microsoft.com
+Comment:        
+Comment:        For routing, peering or DNS issues, please 
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            https://whois.arin.net/rest/org/MSFT
+
+
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080 
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/MAC74-ARIN
+
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080 
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    https://whois.arin.net/rest/poc/MRPD-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 213.32.66.16
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.32.0.0 - 213.32.127.255'
+
+% Abuse contact for '213.32.0.0 - 213.32.127.255' is 'abuse@ovh.net'
+
+inetnum:        213.32.0.0 - 213.32.127.255
+netname:        FR-OVH-19990628
+country:        FR
+org:            ORG-OS3-RIPE
+admin-c:        OK217-RIPE
+tech-c:         OTC2-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      OVH-MNT
+mnt-routes:     OVH-MNT
+mnt-domains:    OVH-MNT
+created:        2016-09-29T11:57:12Z
+last-modified:  2016-09-29T11:57:12Z
+source:         RIPE # Filtered
+
+organisation:   ORG-OS3-RIPE
+org-name:       OVH SAS
+org-type:       LIR
+address:        2 rue Kellermann
+address:        59100
+address:        Roubaix
+address:        FRANCE
+phone:          +333974531323
+fax-no:         +33320200958
+abuse-c:        AR15333-RIPE
+admin-c:        OTC2-RIPE
+admin-c:        OK217-RIPE
+admin-c:        GM84-RIPE
+mnt-ref:        OVH-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-mailbox:  abuse@ovh.net
+created:        2004-04-17T11:23:17Z
+last-modified:  2016-04-15T09:33:52Z
+source:         RIPE # Filtered
+
+role:           OVH Technical Contact
+address:        OVH SAS
+address:        2 rue Kellermann
+address:        59100 Roubaix
+address:        France
+admin-c:        OK217-RIPE
+tech-c:         GM84-RIPE
+tech-c:         SL10162-RIPE
+nic-hdl:        OTC2-RIPE
+abuse-mailbox:  abuse@ovh.net
+mnt-by:         OVH-MNT
+created:        2004-01-28T17:42:29Z
+last-modified:  2014-09-05T10:47:15Z
+source:         RIPE # Filtered
+
+person:         Octave Klaba
+address:        OVH SAS
+address:        2 rue Kellermann
+address:        59100 Roubaix
+address:        France
+phone:          +33 9 74 53 13 23
+nic-hdl:        OK217-RIPE
+abuse-mailbox:  abuse@ovh.net
+mnt-by:         OVH-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2010-10-05T08:51:16Z
+source:         RIPE # Filtered
+
+% Information related to '213.32.0.0/17AS16276'
+
+route:          213.32.0.0/17
+descr:          OVH
+origin:         AS16276
+mnt-by:         OVH-MNT
+created:        2016-09-30T09:47:45Z
+last-modified:  2016-09-30T09:47:45Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.88 (BLAARKOP)
+
+
+IP_address 23.100.86.91
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=23.100.86.91?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+NetRange:       23.96.0.0 - 23.103.255.255
+CIDR:           23.96.0.0/13
+NetName:        MSFT
+NetHandle:      NET-23-96-0-0-1
+Parent:         NET23 (NET-23-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS8075
+Organization:   Microsoft Corporation (MSFT)
+RegDate:        2013-06-18
+Updated:        2013-06-18
+Ref:            https://whois.arin.net/rest/net/NET-23-96-0-0-1
+
+
+OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        1998-07-10
+Updated:        2016-06-30
+Comment:        To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:
+Comment:        * https://cert.microsoft.com.  
+Comment:        
+Comment:        For SPAM and other abuse issues, such as Microsoft Accounts, please contact:
+Comment:        * abuse@microsoft.com.  
+Comment:        
+Comment:        To report security vulnerabilities in Microsoft products and services, please contact:
+Comment:        * secure@microsoft.com.  
+Comment:        
+Comment:        For legal and law enforcement-related requests, please contact:
+Comment:        * msndcc@microsoft.com
+Comment:        
+Comment:        For routing, peering or DNS issues, please 
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            https://whois.arin.net/rest/org/MSFT
+
+
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080 
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/MAC74-ARIN
+
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080 
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    https://whois.arin.net/rest/poc/MRPD-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 23.66.21.99
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# https://whois.arin.net/rest/nets;q=23.66.21.99?showDetails=true&showARIN=false&showNonArinTopLevelNet=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       23.32.0.0 - 23.67.255.255
+CIDR:           23.64.0.0/14, 23.32.0.0/11
+NetName:        AKAMAI
+NetHandle:      NET-23-32-0-0-1
+Parent:         NET23 (NET-23-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Akamai Technologies, Inc. (AKAMAI)
+RegDate:        2011-05-16
+Updated:        2012-03-02
+Ref:            https://whois.arin.net/rest/net/NET-23-32-0-0-1
+
+
+
+OrgName:        Akamai Technologies, Inc.
+OrgId:          AKAMAI
+Address:        150 Broadway
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        1999-01-21
+Updated:        2016-11-16
+Ref:            https://whois.arin.net/rest/org/AKAMAI
+
+
+OrgTechHandle: SJS98-ARIN
+OrgTechName:   Schecter, Steven Jay
+OrgTechPhone:  +1-617-274-7134 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgAbuseHandle: SJS98-ARIN
+OrgAbuseName:   Schecter, Steven Jay
+OrgAbusePhone:  +1-617-274-7134 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/SJS98-ARIN
+
+OrgTechHandle: ZIPKI-ARIN
+OrgTechName:   Zipkin, Justin 
+OrgTechPhone:  +1-617-444-9713 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://whois.arin.net/rest/poc/ZIPKI-ARIN
+
+# end
+
+
+# start
+
+NetRange:       23.66.16.0 - 23.66.31.255
+CIDR:           23.66.16.0/20
+NetName:        AIBV
+NetHandle:      NET-23-66-16-0-1
+Parent:         AKAMAI (NET-23-32-0-0-1)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Akamai International, BV (AIB-17)
+RegDate:        2014-04-11
+Updated:        2014-04-11
+Ref:            https://whois.arin.net/rest/net/NET-23-66-16-0-1
+
+
+OrgName:        Akamai International, BV
+OrgId:          AIB-17
+Address:        Prins Bernhardplein 200
+City:           Amsterdam
+StateProv:      
+PostalCode:     1097 JB
+Country:        NL
+RegDate:        2013-09-19
+Updated:        2013-09-19
+Ref:            https://whois.arin.net/rest/org/AIB-17
+
+
+OrgTechHandle: AIBVH-ARIN
+OrgTechName:   AIBV Hostmaster
+OrgTechPhone:  +16174442535 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://whois.arin.net/rest/poc/AIBVH-ARIN
+
+OrgAbuseHandle: AIBVH-ARIN
+OrgAbuseName:   AIBV Hostmaster
+OrgAbusePhone:  +16174442535 
+OrgAbuseEmail:  ip-admin@akamai.com
+OrgAbuseRef:    https://whois.arin.net/rest/poc/AIBVH-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+IP_address 88.214.236.182
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '88.214.236.0 - 88.214.237.255'
+
+% Abuse contact for '88.214.236.0 - 88.214.237.255' is 'abuse@ipipe.net'
+
+inetnum:        88.214.236.0 - 88.214.237.255
+netname:        uaonline-ipipe-SD-ru-236-237
+descr:          iPipe SD block
+country:        RU
+admin-c:        ID5-RIPE
+tech-c:         ID5-RIPE
+status:         ASSIGNED PA
+mnt-by:         uaonline
+mnt-routes:     DN-MNT
+created:        2012-12-28T08:47:39Z
+last-modified:  2015-10-01T07:34:19Z
+source:         RIPE # Filtered
+
+role:           IPIPE DBM
+nic-hdl:        ID5-RIPE
+org:            ORG-RIBC1-RIPE
+address:        Overoptic Systems LTD
+address:        13 Freeland Park, Wareham Road
+address:        BH16 6FH Poole
+address:        UNITED KINGDOM
+phone:          +4401202806130
+fax-no:         +44.01202806130
+abuse-mailbox:  abuse@ipipe.net
+admin-c:        EA2-RIPE
+tech-c:         EA2-RIPE
+mnt-by:         uaonline
+created:        2009-05-11T15:35:56Z
+last-modified:  2014-02-24T13:09:41Z
+source:         RIPE # Filtered
+
+% Information related to '88.214.236.0/23AS12695'
+
+route:          88.214.236.0/23
+descr:          iPipe network in Dinet
+origin:         AS12695
+mnt-by:         DN-MNT
+created:        2015-09-30T11:59:08Z
+last-modified:  2015-09-30T11:59:08Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.88 (HEREFORD)
+
+
+IP_address 91.142.90.46
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.142.90.0 - 91.142.90.255'
+
+% Abuse contact for '91.142.90.0 - 91.142.90.255' is 'abuse@miran.ru'
+
+inetnum:        91.142.90.0 - 91.142.90.255
+netname:        MIRAN-10
+descr:          Miran VDS client infrastructure
+country:        RU
+admin-c:        MS33038-RIPE
+tech-c:         MS33038-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-MIRAN
+created:        2014-04-04T08:02:01Z
+last-modified:  2016-11-08T11:25:29Z
+source:         RIPE
+
+person:         Maxim Smirnov
+address:        Pirogovskaya emb 17, of. 205, Saint-Petersburg, Russia
+phone:          +78124907091
+nic-hdl:        MS33038-RIPE
+mnt-by:         MNT-MIRAN
+created:        2013-09-06T09:48:54Z
+last-modified:  2015-03-25T09:55:26Z
+source:         RIPE # Filtered
+
+% Information related to '91.142.90.0/24AS41722'
+
+route:          91.142.90.0/24
+descr:          Miran - 91.142.90.0/24
+origin:         AS41722
+mnt-by:         MNT-MIRAN
+created:        2014-12-16T14:56:01Z
+last-modified:  2014-12-16T14:56:01Z
+source:         RIPE
+remarks:        region-id=Spb
+
+% This query was served by the RIPE Database Query Service version 1.88 (ANGUS)
+
+
